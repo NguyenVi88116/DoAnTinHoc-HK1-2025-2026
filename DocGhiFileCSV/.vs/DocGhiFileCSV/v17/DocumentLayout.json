@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|e:\\dinhngocnguyenvi_dh52302283\\docghifile_doan\\docghifilecsv\\docghifilecsv\\readcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|solutionrelative:docghifilecsv\\readcsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\docghifilecsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|solutionrelative:docghifilecsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\docghifilecsv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|solutionrelative:docghifilecsv\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\docghifilecsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|solutionrelative:docghifilecsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\docghifilecsv\\hotel reservations.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|solutionrelative:docghifilecsv\\hotel reservations.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\docghifilecsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BAAAAD3E-0F45-4B31-B456-417E989B9F5C}|DocGhiFileCSV\\DocGhiFileCSV.csproj|solutionrelative:docghifilecsv\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadCSV.cs",
+              "DocumentMoniker": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\ReadCSV.cs",
+              "RelativeDocumentMoniker": "DocGhiFileCSV\\ReadCSV.cs",
+              "ToolTip": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\ReadCSV.cs",
+              "RelativeToolTip": "DocGhiFileCSV\\ReadCSV.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:57:33.485Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\Form1.cs",
+              "RelativeDocumentMoniker": "DocGhiFileCSV\\Form1.cs",
+              "ToolTip": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\Form1.cs",
+              "RelativeToolTip": "DocGhiFileCSV\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:03:06.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\Program.cs",
+              "RelativeDocumentMoniker": "DocGhiFileCSV\\Program.cs",
+              "ToolTip": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\Program.cs",
+              "RelativeToolTip": "DocGhiFileCSV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:02:56.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\Form1.cs",
+              "RelativeDocumentMoniker": "DocGhiFileCSV\\Form1.cs",
+              "ToolTip": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\Form1.cs [Design]",
+              "RelativeToolTip": "DocGhiFileCSV\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:02:23.102Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DocGhiFileCSV\\Form1.Designer.cs",
+              "ToolTip": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\Form1.Designer.cs",
+              "RelativeToolTip": "DocGhiFileCSV\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T18:34:57.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hotel Reservations.csv",
+              "DocumentMoniker": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\Hotel Reservations.csv",
+              "RelativeDocumentMoniker": "DocGhiFileCSV\\Hotel Reservations.csv",
+              "ToolTip": "E:\\DinhNgocNguyenVi_DH52302283\\docghifile_doan\\DocGhiFileCSV\\DocGhiFileCSV\\Hotel Reservations.csv",
+              "RelativeToolTip": "DocGhiFileCSV\\Hotel Reservations.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-10-24T19:15:04.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
